@@ -8,6 +8,9 @@ Reports: The system generates reports on the NGO's finances, volunteers, and eve
 
 # Technologies
 The system is built using the following technologies:
+
 Frontend: HTML, CSS, Bootstrap, JavaScript
+
 Backend: PHP
+
 Database: MySQL
